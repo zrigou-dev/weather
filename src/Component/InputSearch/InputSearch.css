@@ -1,0 +1,35 @@
+.inpSearch{
+    transform: translate(0% ,20%);
+    border: 3px solid transparent;
+    background-color: hsla(0,0%,100%,.3);
+    box-shadow: 3px 0 8px silver;
+    width: 90%;
+   padding:50px 0px;
+   border-radius: 20px;
+}
+.inpSearch img{
+    width: 260px;
+}
+.inpSearch div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.inpSearch h1{
+    color: rgb(16, 18, 20);
+    font-size: 260%;
+    font-weight: bold;
+}
+.inpSearch form{
+    text-align: center;
+}
+.inpSearch form input{
+   width: 80%;
+   height: 35px;
+   border-radius: 20px;
+   border: 2px solid black;
+   font-weight:bold ;
+   color: #444;
+   text-align: center;
+}

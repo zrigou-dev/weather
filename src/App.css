@@ -1,0 +1,11 @@
+.App{
+  background: url(./images/background.jpeg) center no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+.App h2{
+  text-align: center;
+  color: rgb(247, 35, 35);
+  position: relative;
+  top: 10%;
+}

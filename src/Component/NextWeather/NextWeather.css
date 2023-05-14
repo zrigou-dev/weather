@@ -1,0 +1,18 @@
+.next-info{
+    text-align: center;
+    background-color: hsla(0,0%,100%,.3);
+    box-shadow: 3px 0 8px silver;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-top: 30px !important;
+}
+.next-info h3{
+    font-weight: bold;
+}
+.next-info img{
+     width: 50%;
+}
+.next-info p{
+    font-size: large;
+    font-weight: bold;
+}

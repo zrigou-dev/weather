@@ -1,0 +1,30 @@
+.information{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+    background-color: hsla(0,0%,100%,.3);
+    box-shadow: 3px 0 8px silver;
+    margin-top: 200px;
+    border-radius: 20px;
+    padding: 30px 0px;
+}
+.information img{
+    width: 260px;
+}
+.information h3{
+    font-weight: bold;
+    font-size: 170%;
+}
+.information h2{
+    color: rgb(0, 11, 212);
+    font-weight: bold;
+    font-size: 150%;
+}
+.information p{
+    font-weight: bold;
+}
+.NextWeather{
+    padding-bottom: 40px !important;
+}
